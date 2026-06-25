@@ -1,0 +1,7 @@
+{
+    "name": "hospitalms/hospitalms",
+    "description": "Hospital Management System",
+    "require": {
+        "dompdf/dompdf": "^2.0"
+    }
+}
